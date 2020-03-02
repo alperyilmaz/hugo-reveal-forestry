@@ -1,4 +1,6 @@
-# programming-quotes
+# reveal-hugo theme test with forestry
+ 
+> The contents are forked from https://github.com/dzello/programming-quotes
 
 A dead-simple boilerplate and demo presentation for the [reveal-hugo](https://dzello.com/reveal-hugo) Reveal.js Hugo theme.
 
